@@ -1,0 +1,17 @@
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\bin\Release\net8.0-windows\testWinForms.exe
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\bin\Release\net8.0-windows\testWinForms.deps.json
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\bin\Release\net8.0-windows\testWinForms.runtimeconfig.json
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\bin\Release\net8.0-windows\testWinForms.dll
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\bin\Release\net8.0-windows\testWinForms.pdb
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.BaseForm.resources
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.csproj.GenerateResource.cache
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.AssemblyInfoInputs.cache
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.AssemblyInfo.cs
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.csproj.CoreCompileInputs.cache
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.dll
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\refint\testWinForms.dll
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.pdb
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.genruntimeconfig.cache
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\ref\testWinForms.dll
+C:\Users\timos\Desktop\consoleAppTest\testWinForms\testWinForms\obj\Release\net8.0-windows\testWinForms.HackForm.resources

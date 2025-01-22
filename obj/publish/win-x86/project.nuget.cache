@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "CxVbZHRSXF0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\timos\\Desktop\\consoleAppTest\\testWinForms\\testWinForms\\testWinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\timos\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.12\\microsoft.net.illink.tasks.8.0.12.nupkg.sha512",
+    "C:\\Users\\timos\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\8.0.12\\microsoft.netcore.app.runtime.win-x86.8.0.12.nupkg.sha512",
+    "C:\\Users\\timos\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\8.0.12\\microsoft.windowsdesktop.app.runtime.win-x86.8.0.12.nupkg.sha512",
+    "C:\\Users\\timos\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\8.0.12\\microsoft.aspnetcore.app.runtime.win-x86.8.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

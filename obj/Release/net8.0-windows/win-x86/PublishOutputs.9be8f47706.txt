@@ -1,0 +1,7 @@
+C:\Users\timos\Desktop\beta hacker\testWinForms.pdb
+C:\Users\timos\Desktop\beta hacker\D3DCompiler_47_cor3.dll
+C:\Users\timos\Desktop\beta hacker\PenImc_cor3.dll
+C:\Users\timos\Desktop\beta hacker\PresentationNative_cor3.dll
+C:\Users\timos\Desktop\beta hacker\vcruntime140_cor3.dll
+C:\Users\timos\Desktop\beta hacker\wpfgfx_cor3.dll
+C:\Users\timos\Desktop\beta hacker\testWinForms.exe

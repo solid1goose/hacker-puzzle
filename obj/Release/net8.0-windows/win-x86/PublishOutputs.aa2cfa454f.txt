@@ -1,0 +1,7 @@
+C:\Users\timos\Desktop\releseHacker\testWinForms.pdb
+C:\Users\timos\Desktop\releseHacker\D3DCompiler_47_cor3.dll
+C:\Users\timos\Desktop\releseHacker\PenImc_cor3.dll
+C:\Users\timos\Desktop\releseHacker\PresentationNative_cor3.dll
+C:\Users\timos\Desktop\releseHacker\vcruntime140_cor3.dll
+C:\Users\timos\Desktop\releseHacker\wpfgfx_cor3.dll
+C:\Users\timos\Desktop\releseHacker\testWinForms.exe
